@@ -78,3 +78,15 @@ button {
 #cart {
 	position: relative;
 }
+
+.hide {
+	display: none;
+}
+
+.product button {
+	transition: 0.3s;
+}
+
+.product button:hover {
+	opacity: 0.7;
+}

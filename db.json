@@ -5,6 +5,18 @@
 			"name": "Yehor",
 			"photo_url": "https://img.freepik.com/free-photo/landscape-of-morning-fog-and-mountains-with-hot-air-balloons-at-sunrise_335224-794.jpg",
 			"balance": 2000
+		},
+		{
+			"id": 2,
+			"name": "Misha",
+			"photo_url": "https://static-cse.canva.com/blob/846900/photo1502082553048f009c37129b9e1583341920812.jpeg",
+			"balance": 3000
+		},
+		{
+			"id": 3,
+			"name": "Alexandra",
+			"photo_url": "https://www.biletik.aero/upload/medialibrary/807/807f262b60da392f1e09aa6d33f20a9b.png",
+			"balance": 4000
 		}
 	],
 	"products": [
@@ -15,6 +27,46 @@
 			"price": 300,
 			"author_id": 1,
 			"photo_url": "https://images.prom.ua/2335048805_w640_h640_polnotsvetnyj-led-ekran.jpg"
+		},
+		{
+			"id": 2,
+			"name": "Діодний міст",
+			"description": "KBJ3510 1000В 35А",
+			"price": 350,
+			"author_id": 1,
+			"photo_url": "https://content1.rozetka.com.ua/goods/images/big/169334159.png"
+		},
+		{
+			"id": 3,
+			"name": "Arduino Nano",
+			"description": "Arduino Nano V3.0 ATMega328P",
+			"price": 320,
+			"author_id": 2,
+			"photo_url": "https://www.robostore.com.ua/content/images/1/1332x1332l80mc0/otladochnaja-plata-arduino-nano-atmega328p-raspajannaja-67599136784574.webp"
+		},
+		{
+			"id": 4,
+			"name": "Arduino Uno",
+			"description": "Відладочна плата Arduino Uno Rev3",
+			"price": 400,
+			"author_id": 2,
+			"photo_url": "https://www.robostore.com.ua/content/images/30/1500x1500l80mc0/otladochnaja-plata-arduino-uno-rev3-ch340-38264438199873.webp"
+		},
+		{
+			"id": 5,
+			"name": "Світлодіодна стрічка",
+			"description": "5м Smart WiFi RGB F1",
+			"price": 500,
+			"author_id": 3,
+			"photo_url": "https://www.brille.ua/image/cache/webp/catalog/oc_36244d320ba0433bfdb8b4325c9df5796eec6-1200x800.webp"
+		},
+		{
+			"id": 6,
+			"name": "Світлодіодна фітострічка",
+			"description": "LM870 IP65 60SMD 5050 12V 12W/м 18LM/LED",
+			"price": 700,
+			"author_id": 3,
+			"photo_url": "https://www.brille.ua/image/cache/webp/catalog/oc_360645ef11380a61921961ec3a82f8bd33b1d-1200x800.webp"
 		}
 	]
 }
