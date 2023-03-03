@@ -10,14 +10,14 @@
 		{
 			"id": 2,
 			"name": "Misha",
-			"sirname": "Senchenko",
+			"sirname": "Podhorets",
 			"photo_url": "https://static-cse.canva.com/blob/846900/photo1502082553048f009c37129b9e1583341920812.jpeg",
 			"balance": 3000
 		},
 		{
 			"id": 3,
 			"name": "Alexandra",
-			"sirname": "Senchenko",
+			"sirname": "Baranova",
 			"photo_url": "https://www.biletik.aero/upload/medialibrary/807/807f262b60da392f1e09aa6d33f20a9b.png",
 			"balance": 4000
 		}
