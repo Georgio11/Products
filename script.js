@@ -1,11 +1,12 @@
 let productsGrid = document.getElementById('products-grid');
 let productsArray = [];
 let xhr = new XMLHttpRequest();
-let url = 'https://fr1800-b3f0.restdb.io/rest/product';
+let url = 'https://product-b48b.restdb.io/rest/products';
+// https://fr1800-b3f0.restdb.io/rest/product
 
 xhr.open('GET', url);
 xhr.setRequestHeader("content-type", "application/json");
-xhr.setRequestHeader("x-apikey", "6414a0aebc22d22cf7b26015");
+xhr.setRequestHeader("x-apikey", "641d8aca22634c74fb00b11e");
 xhr.setRequestHeader("cache-control", "no-cache");
 xhr.responseType = 'json';
 xhr.onload = function() {
@@ -76,3 +77,7 @@ function buyAll() {
 function openCart() {
 	cartProd.classList.toggle('hide');
 }
+
+// document.body.addEventListener('click', function() {
+// 	cartProd.classList.remove('hide');
+// })
